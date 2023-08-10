@@ -15,4 +15,5 @@
 * Test con push 4
 
 * Comando git pull
-* 
+
+* Comando git fetch
