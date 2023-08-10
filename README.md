@@ -13,3 +13,6 @@
 * Test con push 3
 
 * Test con push 4
+
+* Comando git pull
+* 
